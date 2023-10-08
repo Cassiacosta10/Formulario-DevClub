@@ -12,14 +12,12 @@
 <p>"required": obriga o preenchimento dos campos</p>
 <p>"type = e-mail": o campo tem que constar o @ e o formato correto de um e-mail</p>
 <p>"textarea row="6"": caixa de texto com 6 linhas</p>
-<p> É um projeto simples mas com várias opções de prática na programação html e que deixa o formulário bem completo. Fiquei feliz em poder praticar com ele.</p>
+<p> É um projeto simples, porém com várias opções de prática na programação html e que deixa o formulário bem completo.
+ Fiquei feliz em poder praticar com ele.</p>
 
 ![Formulario em Branco](https://github.com/Cassiacosta10/Formulario-DevClub/assets/132623592/44cc33a1-9127-4887-af1f-9ef7b604b03b)
 ![Dormulario Preenchido](https://github.com/Cassiacosta10/Formulario-DevClub/assets/132623592/33e659fd-3785-4b4d-9cf3-e21216c69870)
 
  <h5>📁 Acesso ao projeto</h5>
- 
-Você pode acessar o site do projeto clicando [aqui]( https://github.com/Cassiacosta10/Formulario).
-
-
-
+  
+Você pode acessar o site do projeto clicando [aqui](https://cassiacosta10.github.io/Formulario-DevClub/).
