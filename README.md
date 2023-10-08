@@ -1,6 +1,6 @@
 # Formulário DevClub
 
-<h2> É um projeto de um formulário que me inspirei e fiz na versão para o cadastro de desenvolvedores do DevClub <a href="https://rodolfomori.com.br/devclub"/>DevClub</a></h2>
+<h2> É um projeto de um formulário que me inspirei e fiz na versão para o cadastro de desenvolvedores do  <a href="https://rodolfomori.com.br/devclub"/>DevClub</a></h2>
 <h3> ✔️Tecnologias usadas:</h3>
 
 - HTML
